@@ -20,5 +20,4 @@ public class ZohoMoveZeroToTheEnd
 	 System.out.println(Arrays.toString(arr));
  }
 }
-//5, 6, 0, 4, 6, 0, 9, 0, 8
-//5 6 4 6 9 8 0 0 0 
+  
